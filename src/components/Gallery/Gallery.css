@@ -1,3 +1,10 @@
 .gallery-wrap {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr 1fr;
+}
+
+.outer-wrap {
   margin-top: 150px;
+  text-align: center;
 }

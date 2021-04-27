@@ -7,6 +7,7 @@ import App from "./App";
 import AboutUs from "./components/AboutUs/AboutUs";
 import Header from "./components/Header/Header";
 import Gallery from "./components/Gallery/Gallery";
+import Location from "./components/Location/Location";
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,7 +16,7 @@ ReactDOM.render(
       <Switch>
         <Route exact path="/" render={() => <App />} />
         <Route exact path="/about-us" render={() => <AboutUs />} />
-        <Route exact path="/location" render={() => <App />} />
+        <Route exact path="/location" render={() => <Location />} />
         <Route exact path="/gallery" render={() => <Gallery />} />
         <Route exact path="/press-release" render={() => <App />} />
       </Switch>
