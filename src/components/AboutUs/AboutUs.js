@@ -14,7 +14,7 @@ const AboutUs = () => {
           colors, or feel the grass beneath our feet. In a culture of efficiency
           and multi tasking, we check off urgent matters from our “to-do list”
           and often miss the most important things, like relationships…
-          Relationships with others, with God, and with Creation. Camp Hanover
+          Relationships with others, with family, and with friends. Camp Hanover
           offers that opportunity to rekindle these relationships in a sacred
           space for renewal and growth.
         </p>
@@ -31,7 +31,7 @@ const AboutUs = () => {
           community. A 600-acre Retreat Center where groups are invited to
           connect, refresh, renew, and grow, all year long. Guests to Camp
           Hanover will enjoy comfortable lodging, hearty meals and an atmosphere
-          of radical, uncompromising Christian hospitality.
+          of radical, uncompromising hospitality.
         </p>
       </div>
     </div>
