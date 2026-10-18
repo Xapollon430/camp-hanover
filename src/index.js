@@ -12,7 +12,7 @@ import PressRelease from "./components/PressRelease/PressRelease";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Header />
       <Switch>
         <Route exact path="/" render={() => <App />} />
